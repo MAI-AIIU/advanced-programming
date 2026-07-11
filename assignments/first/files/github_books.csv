@@ -1,15 +1,15 @@
 index,title,price,rating,stock,category,book_url
-0,Modern Romance,Â£28.26,Five,In stock,Add a comment,https://books.toscrape.com/catalogue/modern-romance_820/index.html
+0,Modern Romance,NaN,Five,In stock,Add a comment,https://books.toscrape.com/catalogue/modern-romance_820/index.html
 1,Miss Peregrineâs Home for Peculiar Children (Miss Peregrineâs Peculiar Children #1),Â£10.76,One,In stock,Default,https://books.toscrape.com/catalogue/miss-peregrines-home-for-peculiar-children-miss-peregrines-peculiar-children-1_819/index.html
 2,Louisa: The Extraordinary Life of Mrs. Adams,Â£16.85,Two,In stock,Biography,https://books.toscrape.com/catalogue/louisa-the-extraordinary-life-of-mrs-adams_818/index.html
-3,Little Red,Â£13.47,Three,In stock,Childrens,https://books.toscrape.com/catalogue/little-red_817/index.html
+3,Little Red,NaN,Three,In stock,Childrens,https://books.toscrape.com/catalogue/little-red_817/index.html
 4,Library of Souls (Miss Peregrineâs Peculiar Children #3),Â£48.56,Five,In stock,Young Adult,https://books.toscrape.com/catalogue/library-of-souls-miss-peregrines-peculiar-children-3_816/index.html
 5,Large Print Heart of the Pride,Â£19.15,Two,In stock,Default,https://books.toscrape.com/catalogue/large-print-heart-of-the-pride_815/index.html
 6,I Had a Nice Time And Other Lies...: How to find love & sh*t like that,Â£57.36,Four,In stock,Womens Fiction,https://books.toscrape.com/catalogue/i-had-a-nice-time-and-other-lies-how-to-find-love-sht-like-that_814/index.html
 7,Hollow City (Miss Peregrineâs Peculiar Children #2),Â£42.98,One,In stock,Fantasy,https://books.toscrape.com/catalogue/hollow-city-miss-peregrines-peculiar-children-2_813/index.html
 8,Grumbles,Â£22.16,Two,In stock,Default,https://books.toscrape.com/catalogue/grumbles_812/index.html
 9,Full Moon over Noahâs Ark: An Odyssey to Mount Ararat and Beyond,Â£49.43,Four,In stock,Travel,https://books.toscrape.com/catalogue/full-moon-over-noahs-ark-an-odyssey-to-mount-ararat-and-beyond_811/index.html
-10,Frostbite (Vampire Academy #2),Â£29.99,Five,In stock,Young Adult,https://books.toscrape.com/catalogue/frostbite-vampire-academy-2_810/index.html
+10,Frostbite (Vampire Academy #2),NaN,Five,In stock,Young Adult,https://books.toscrape.com/catalogue/frostbite-vampire-academy-2_810/index.html
 11,Follow You Home,Â£21.36,One,In stock,Horror,https://books.toscrape.com/catalogue/follow-you-home_809/index.html
 12,First Steps for New Christians (Print Edition),Â£29.00,One,In stock,Default,https://books.toscrape.com/catalogue/first-steps-for-new-christians-print-edition_808/index.html
 13,Finders Keepers (Bill Hodges Trilogy #2),Â£53.53,Five,In stock,Fiction,https://books.toscrape.com/catalogue/finders-keepers-bill-hodges-trilogy-2_807/index.html
@@ -19,7 +19,7 @@ index,title,price,rating,stock,category,book_url
 17,Done Rubbed Out (Reightman & Bailey #1),Â£37.72,Five,In stock,Default,https://books.toscrape.com/catalogue/done-rubbed-out-reightman-bailey-1_803/index.html
 18,Doing It Over (Most Likely To #1),Â£35.61,Three,In stock,Romance,https://books.toscrape.com/catalogue/doing-it-over-most-likely-to-1_802/index.html
 19,"Deliciously Ella Every Day: Quick and Easy Recipes for Gluten-Free Snacks, Packed Lunches, and Simple Meals",Â£42.16,Three,In stock,Food and Drink,https://books.toscrape.com/catalogue/deliciously-ella-every-day-quick-and-easy-recipes-for-gluten-free-snacks-packed-lunches-and-simple-meals_801/index.html
-20,Dark Notes,Â£19.19,Five,In stock,Erotica,https://books.toscrape.com/catalogue/dark-notes_800/index.html
+20,Dark Notes,NaN,Five,In stock,Erotica,https://books.toscrape.com/catalogue/dark-notes_800/index.html
 21,"Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead",Â£19.43,Three,In stock,Nonfiction,https://books.toscrape.com/catalogue/daring-greatly-how-the-courage-to-be-vulnerable-transforms-the-way-we-live-love-parent-and-lead_799/index.html
 22,Close to You,Â£49.46,Four,In stock,Christian Fiction,https://books.toscrape.com/catalogue/close-to-you_798/index.html
 23,Chasing Heaven: What Dying Taught Me About Living,Â£37.80,Two,In stock,Spirituality,https://books.toscrape.com/catalogue/chasing-heaven-what-dying-taught-me-about-living_797/index.html
@@ -50,22 +50,22 @@ index,title,price,rating,stock,category,book_url
 48,Through the Woods,Â£25.38,Two,In stock,Sequential Art,https://books.toscrape.com/catalogue/through-the-woods_772/index.html
 49,This Is Where It Ends,Â£27.12,Two,In stock,Young Adult,https://books.toscrape.com/catalogue/this-is-where-it-ends_771/index.html
 50,The Year of Magical Thinking,Â£43.04,Two,In stock,Nonfiction,https://books.toscrape.com/catalogue/the-year-of-magical-thinking_770/index.html
-51,The Wright Brothers,Â£56.80,Four,In stock,Default,https://books.toscrape.com/catalogue/the-wright-brothers_769/index.html
+51,The Wright Brothers,NaN,Four,In stock,Default,https://books.toscrape.com/catalogue/the-wright-brothers_769/index.html
 52,The White Queen (The Cousins' War #1),Â£25.91,Five,In stock,Add a comment,https://books.toscrape.com/catalogue/the-white-queen-the-cousins-war-1_768/index.html
 53,The Wedding Pact (The O'Malleys #2),Â£32.61,Three,In stock,Romance,https://books.toscrape.com/catalogue/the-wedding-pact-the-omalleys-2_767/index.html
 54,The Time Keeper,Â£27.88,Five,In stock,Fiction,https://books.toscrape.com/catalogue/the-time-keeper_766/index.html
 55,The Testament of Mary,Â£52.67,Four,In stock,Fiction,https://books.toscrape.com/catalogue/the-testament-of-mary_765/index.html
-56,The Star-Touched Queen,Â£46.02,Five,In stock,Fantasy,https://books.toscrape.com/catalogue/the-star-touched-queen_764/index.html
+56,None,Â£46.02,None,In stock,None,https://books.toscrape.com/catalogue/the-star-touched-queen_764/index.html
 57,The Songs of the Gods,Â£44.48,Five,In stock,Default,https://books.toscrape.com/catalogue/the-songs-of-the-gods_763/index.html
 58,The Song of Achilles,Â£37.40,Five,In stock,Add a comment,https://books.toscrape.com/catalogue/the-song-of-achilles_762/index.html
 59,The Rosie Project (Don Tillman #1),Â£54.04,One,In stock,Default,https://books.toscrape.com/catalogue/the-rosie-project-don-tillman-1_761/index.html
 60,The Power of Habit: Why We Do What We Do in Life and Business,Â£16.88,Three,In stock,Default,https://books.toscrape.com/catalogue/the-power-of-habit-why-we-do-what-we-do-in-life-and-business_760/index.html
 61,The Marriage of Opposites,Â£28.08,Four,In stock,Historical Fiction,https://books.toscrape.com/catalogue/the-marriage-of-opposites_759/index.html
-62,The Lucifer Effect: Understanding How Good People Turn Evil,Â£10.40,One,In stock,Psychology,https://books.toscrape.com/catalogue/the-lucifer-effect-understanding-how-good-people-turn-evil_758/index.html
+62,None,Â£10.40,One,In stock,Psychology,https://books.toscrape.com/catalogue/the-lucifer-effect-understanding-how-good-people-turn-evil_758/index.html
 63,The Long Haul (Diary of a Wimpy Kid #9),Â£44.07,One,In stock,Humor,https://books.toscrape.com/catalogue/the-long-haul-diary-of-a-wimpy-kid-9_757/index.html
 64,The Loney,Â£23.40,One,In stock,Horror,https://books.toscrape.com/catalogue/the-loney_756/index.html
 65,The Literature Book (Big Ideas Simply Explained),Â£17.43,Three,In stock,Nonfiction,https://books.toscrape.com/catalogue/the-literature-book-big-ideas-simply-explained_755/index.html
-66,The Last Mile (Amos Decker #2),Â£54.21,Two,In stock,Mystery,https://books.toscrape.com/catalogue/the-last-mile-amos-decker-2_754/index.html
+66,None,Â£54.21,Two,In stock,Mystery,https://books.toscrape.com/catalogue/the-last-mile-amos-decker-2_754/index.html
 67,The Immortal Life of Henrietta Lacks,Â£40.67,Two,In stock,Add a comment,https://books.toscrape.com/catalogue/the-immortal-life-of-henrietta-lacks_753/index.html
 68,The Hidden Oracle (The Trials of Apollo #1),Â£52.26,Two,In stock,Fantasy,https://books.toscrape.com/catalogue/the-hidden-oracle-the-trials-of-apollo-1_752/index.html
 69,The Help Yourself Cookbook for Kids: 60 Easy Plant-Based Recipes Kids Can Make to Stay Healthy and Save the Earth,Â£28.77,Three,In stock,Food and Drink,https://books.toscrape.com/catalogue/the-help-yourself-cookbook-for-kids-60-easy-plant-based-recipes-kids-can-make-to-stay-healthy-and-save-the-earth_751/index.html
@@ -82,7 +82,7 @@ index,title,price,rating,stock,category,book_url
 80,Swell: A Year of Waves,Â£45.58,One,In stock,Nonfiction,https://books.toscrape.com/catalogue/swell-a-year-of-waves_740/index.html
 81,Superman Vol. 1: Before Truth (Superman by Gene Luen Yang #1),Â£11.89,Five,In stock,Sequential Art,https://books.toscrape.com/catalogue/superman-vol-1-before-truth-superman-by-gene-luen-yang-1_739/index.html
 82,Still Life with Bread Crumbs,Â£26.41,Three,In stock,Fiction,https://books.toscrape.com/catalogue/still-life-with-bread-crumbs_738/index.html
-83,Steve Jobs,Â£39.50,Five,In stock,Default,https://books.toscrape.com/catalogue/steve-jobs_737/index.html
+83,None,NaN,Five,In stock,Default,https://books.toscrape.com/catalogue/steve-jobs_737/index.html
 84,Sorting the Beef from the Bull: The Science of Food Fraud Forensics,Â£44.74,Four,In stock,Science,https://books.toscrape.com/catalogue/sorting-the-beef-from-the-bull-the-science-of-food-fraud-forensics_736/index.html
 85,Someone Like You (The Harrisons #2),Â£52.79,Five,In stock,Contemporary,https://books.toscrape.com/catalogue/someone-like-you-the-harrisons-2_735/index.html
 86,"So Cute It Hurts!!, Vol. 6 (So Cute It Hurts!! #6)",Â£35.43,Four,In stock,Sequential Art,https://books.toscrape.com/catalogue/so-cute-it-hurts-vol-6-so-cute-it-hurts-6_734/index.html
