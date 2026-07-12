@@ -1,1 +1,10 @@
-report
+| Section | Required Explanation                                                                 |
+|---------|--------------------------------------------------------------------------------------|
+| 1. Introduction       | The assignment purpose is to build an AI-ready dataset by combining live data from the "Books to Scrape" website with an external legacy dataset from a remote GitHub CSV repository, selected to demonstrate web data collection and cross-source schema integration challenges.|
+| 2. Web Scraping Process |Data was collected from [https://books.toscrape.com/](https://books.toscrape.com/) by extracting Title, Price, Rating, Availability, Category, and Product Link for 100 records using a 5-page programmatic loop with requests and BeautifulSoup, overcoming challenges like textual rating parsing and dynamic sub-page category extraction.|
+| 3. External Dataset Description| Sourced as a Comma-Separated Values (.csv) file from GitHub, this legacy archive contains 200 rows and 7 columns including index, title, price, rating, stock, category, and book_url, providing a realistic database merging scenario.|
+| 4. Data Cleaning| Cleaning involved dropping 4 rows with missing titles, imputing 6 missing prices using the column mean ($34.85$), imputing 1 missing category via the mode, stripping currency encoding noise (Â£), checking for 0 duplicates, and converting string ratings to integers.|
+| 5. Pandas Analysis|Analysis tasks utilized Pandas to filter high-rated books, sort items by price descending, group data by category to aggregate mean and median metrics and more|
+| 6. Dataset Combination or Comparison | Both datasets were compared with their analysis like mean, mode, and other data related analysis|
+| 7. NumPy Analysis |Data was converted into NumPy array shapes to calculate population statistics like variance and standard deviation, perform vectorized mathematical operations, and execute Min-Max normalization to shape the features into an optimized AI input matrix.|
+| 8. Conclusion|The workflow demonstrated how to build automated pipelines to clean raw text and unify disparate schemas, proving that Pandas is essential for macro-level table data preparation while NumPy provides the high-speed vectorized mathematical scaling needed for AI readiness.|
